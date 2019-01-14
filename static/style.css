@@ -1,0 +1,15 @@
+.sidebar-block {
+  background: #fff;
+  border: 1px solid #e9e9e9;
+  margin-top: 15px;
+  font-size: 13px;
+  line-height: 20px; }
+
+.sidebar-block__content {
+  padding: 15px 25px; }
+
+.toast.error {
+  background: #da3940; }
+
+
+/*# sourceMappingURL=style.css.map*/
